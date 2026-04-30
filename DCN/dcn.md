@@ -369,8 +369,374 @@ An interactive MCQ quiz web app covering core topics from Data Communications an
 
 ---
 
+# Unit II — Transmission Media & Switching | MCQ Quiz
+
+Interactive MCQ quiz for B.Tech placement preparation covering Transmission Media, Multiplexing, and Switching.
+
+---
+
+## Topics Covered
+
+- 2.1 Guided Transmission Media (Twisted-Pair, Coaxial, Fiber-Optic)
+- 2.2 Unguided Transmission Media (Radio, Microwave, Infrared, Satellite)
+- 2.3 Line-of-Sight, Point-to-Point, Broadcast Transmission
+- 2.4 Multiplexing (FDM, TDM)
+- 2.5 Switching (Circuit-Switched, Packet-Switched)
+
+---
+
+## Features
+
+- 25 placement-oriented MCQs
+- Answers hidden — listed separately at the bottom
+- Detailed explanations for every question
+- Quick reference cheat sheet included
+
+---
+
+## All 25 MCQs
+
+---
+
+### 2.1 Guided Transmission Media
+
+---
+
+**Q1. Which guided medium offers the highest bandwidth and is completely immune to electromagnetic interference?**
+
+- A) Twisted-Pair Cable
+- B) Coaxial Cable
+- C) Fiber-Optic Cable
+- D) Shielded Twisted Pair
+
+---
+
+**Q2. The main advantage of Shielded Twisted Pair (STP) over Unshielded Twisted Pair (UTP) is:**
+
+- A) Higher data rate
+- B) Lower cost
+- C) Better noise immunity due to shielding
+- D) Easier installation
+
+---
+
+**Q3. Which of the following cables is commonly used in cable television (CATV) networks?**
+
+- A) Twisted-Pair
+- B) Coaxial Cable
+- C) Fiber-Optic Cable
+- D) Infrared
+
+---
+
+**Q4. In fiber-optic communication, data is transmitted in the form of:**
+
+- A) Electrical signals
+- B) Radio waves
+- C) Light pulses
+- D) Microwave signals
+
+---
+
+**Q5. Which type of fiber-optic cable uses a single path for light transmission and is used for long-distance communication?**
+
+- A) Multimode Step-Index
+- B) Multimode Graded-Index
+- C) Single-Mode
+- D) Dual-Mode
+
+---
+
+### 2.2 Unguided Transmission Media
+
+---
+
+**Q6. Which unguided medium uses frequencies between 3 kHz and 1 GHz and can penetrate walls?**
+
+- A) Infrared
+- B) Microwaves
+- C) Radio Waves
+- D) Satellite
+
+---
+
+**Q7. Infrared transmission is used in:**
+
+- A) Long-distance communication
+- B) TV remotes and short-range device communication
+- C) Satellite broadcasting
+- D) Mobile telephony
+
+---
+
+**Q8. Geostationary satellites orbit the Earth at an altitude of approximately:**
+
+- A) 200 km
+- B) 2000 km
+- C) 36,000 km
+- D) 100,000 km
+
+---
+
+**Q9. Which of the following is a disadvantage of satellite communication?**
+
+- A) Wide coverage area
+- B) High propagation delay (~270 ms)
+- C) Supports broadcast communication
+- D) Works in remote areas
+
+---
+
+**Q10. Microwave transmission requires:**
+
+- A) Physical cables
+- B) Line-of-sight between antennas
+- C) Underwater cables
+- D) No antenna alignment
+
+---
+
+### 2.3 Line-of-Sight, Point-to-Point, Broadcast
+
+---
+
+**Q11. Line-of-Sight (LOS) transmission means:**
+
+- A) Data travels through the ground
+- B) Transmitter and receiver must have a clear, unobstructed path
+- C) Signals can pass through any obstacle
+- D) Communication uses reflected signals only
+
+---
+
+**Q12. Which of the following is an example of Point-to-Point transmission?**
+
+- A) FM Radio broadcasting
+- B) Television broadcasting
+- C) A leased telephone line between two offices
+- D) Satellite TV
+
+---
+
+**Q13. Broadcast transmission differs from point-to-point in that:**
+
+- A) Only one receiver exists
+- B) Data is sent from one sender to all receivers simultaneously
+- C) It requires fiber optic cables
+- D) It is always encrypted
+
+---
+
+**Q14. Which transmission type does AM/FM radio use?**
+
+- A) Point-to-Point
+- B) Simplex Point-to-Point
+- C) Broadcast
+- D) Half-Duplex Point-to-Point
+
+---
+
+### 2.4 Multiplexing
+
+---
+
+**Q15. Multiplexing is used to:**
+
+- A) Encrypt data before transmission
+- B) Send multiple signals over a single communication channel simultaneously
+- C) Convert analog to digital signals
+- D) Increase the noise in a channel
+
+---
+
+**Q16. In Frequency Division Multiplexing (FDM):**
+
+- A) Each channel gets the full bandwidth for a fixed time slot
+- B) Each channel is assigned a unique frequency band within the total bandwidth
+- C) Signals are time-interleaved
+- D) Only digital signals can be multiplexed
+
+---
+
+**Q17. Time Division Multiplexing (TDM) is best suited for:**
+
+- A) Analog signals only
+- B) Digital signals
+- C) Optical signals only
+- D) Radio frequency signals
+
+---
+
+**Q18. In synchronous TDM, if there are 4 channels each sending at 1 Mbps, the total line speed must be at least:**
+
+- A) 1 Mbps
+- B) 2 Mbps
+- C) 4 Mbps
+- D) 8 Mbps
+
+---
+
+**Q19. Which multiplexing technique is used in cable TV to carry multiple channels?**
+
+- A) TDM
+- B) FDM
+- C) WDM
+- D) CDM
+
+---
+
+**Q20. Wavelength Division Multiplexing (WDM) is essentially FDM applied to:**
+
+- A) Radio waves
+- B) Fiber-optic cables
+- C) Coaxial cables
+- D) Twisted pair cables
+
+---
+
+### 2.5 Switching
+
+---
+
+**Q21. In a circuit-switched network, a dedicated path is established:**
+
+- A) Only during data transfer
+- B) Before communication begins and maintained for the entire duration
+- C) Dynamically for each packet
+- D) Only for multimedia traffic
+
+---
+
+**Q22. The main disadvantage of circuit switching compared to packet switching is:**
+
+- A) Higher data rates
+- B) Wasted bandwidth when no data is being sent
+- C) More complex routing
+- D) Higher error rates
+
+---
+
+**Q23. In packet switching, each packet:**
+
+- A) Follows the same fixed path as all other packets
+- B) May take a different path to reach the destination
+- C) Requires a dedicated channel
+- D) Cannot be reassembled at the destination
+
+---
+
+**Q24. Which switching technique is used by the modern Internet?**
+
+- A) Circuit Switching
+- B) Message Switching
+- C) Packet Switching
+- D) Cell Switching only
+
+---
+
+**Q25. Store-and-forward is a characteristic of:**
+
+- A) Circuit Switching
+- B) Dedicated line switching
+- C) Packet Switching
+- D) Frequency switching
+
+---
+
+## Quick Reference Cheat Sheet
+
+| Concept | Key Fact |
+|---|---|
+| Twisted Pair | Cheapest, prone to EMI, used in telephone/LAN |
+| Coaxial Cable | Better shielding, used in CATV, longer range than TP |
+| Fiber Optic | Highest bandwidth, immune to EMI, uses light pulses |
+| Single-Mode Fiber | One light path, long distance, expensive |
+| Multimode Fiber | Multiple paths, short distance, cheaper |
+| Radio Waves | 3 kHz–1 GHz, penetrates walls, omnidirectional |
+| Microwave | 1–300 GHz, LOS required, point-to-point |
+| Infrared | Short range, no wall penetration (TV remotes) |
+| Geostationary Satellite | 36,000 km altitude, ~270 ms delay |
+| FDM | Divides bandwidth into frequency bands (analog) |
+| TDM | Divides time into slots (digital) |
+| WDM | FDM for fiber optics (different wavelengths) |
+| Circuit Switching | Dedicated path, used in PSTN/telephone |
+| Packet Switching | No dedicated path, used in Internet |
+| Store-and-Forward | Packet received fully before forwarding (packet switching) |
+
+---
+
+## Explanation Key
+
+**Q1 — C:** Fiber-optic uses light and is immune to EMI with virtually unlimited bandwidth compared to copper media.
+
+**Q2 — C:** STP has a metallic shield around the twisted pairs that reduces electromagnetic interference, making it better for noisy environments.
+
+**Q3 — B:** Coaxial cable's shielding and bandwidth make it ideal for CATV (Cable TV). It carries multiple channels via FDM.
+
+**Q4 — C:** Fiber-optic cables transmit data as pulses of light (photons), not electrical signals — this is why they are immune to EMI.
+
+**Q5 — C:** Single-mode fiber has a very narrow core (~8–10 µm), allowing only one light path, making it ideal for long-distance, high-bandwidth links.
+
+**Q6 — C:** Radio waves (3 kHz–1 GHz) are omnidirectional and can pass through walls, making them ideal for AM/FM radio and Wi-Fi.
+
+**Q7 — B:** Infrared is blocked by walls and works only over short distances — used in TV remotes, IrDA ports, and short-range device control.
+
+**Q8 — C:** Geostationary (GEO) satellites orbit at ~35,786 km above the equator and appear stationary relative to Earth.
+
+**Q9 — B:** The ~36,000 km altitude means a round-trip signal takes ~270 ms — significant latency for real-time applications like VoIP or gaming.
+
+**Q10 — B:** Microwave is a LOS technology — antennas must be aligned with no obstructions between them, which is why towers are placed on hills/rooftops.
+
+**Q11 — B:** LOS means the transmitter and receiver must have a clear, direct, unobstructed path — walls, terrain, and buildings are blockers.
+
+**Q12 — C:** A leased line between two specific offices is a classic point-to-point link — dedicated to exactly two endpoints.
+
+**Q13 — B:** In broadcast, one sender transmits and all nodes in the network receive the signal — e.g., radio, TV, Wi-Fi beacons.
+
+**Q14 — C:** AM/FM radio is one-to-many — one station transmits, all radios in range receive. This is the definition of broadcast.
+
+**Q15 — B:** Multiplexing combines multiple signals onto a single channel, maximizing the use of expensive transmission infrastructure.
+
+**Q16 — B:** In FDM, the total bandwidth is divided into non-overlapping frequency bands — each user/channel gets its own band permanently.
+
+**Q17 — B:** TDM works by interleaving time slots and is inherently designed for digital signals — it's used in T1/E1 digital telephone lines.
+
+**Q18 — C:** Synchronous TDM allocates one slot per channel regardless of activity. 4 channels × 1 Mbps = 4 Mbps minimum line speed.
+
+**Q19 — B:** Cable TV uses FDM — each TV channel is assigned a different frequency band on the same coaxial cable.
+
+**Q20 — B:** WDM applies the FDM concept to fiber optics using different wavelengths (colors) of light — enabling terabits/sec on a single fiber.
+
+**Q21 — B:** Circuit switching sets up a dedicated end-to-end path before data transfer begins (like a phone call) and keeps it for the session.
+
+**Q22 — B:** In circuit switching, the allocated bandwidth sits idle when no data is being transmitted — wasteful for bursty data like web traffic.
+
+**Q23 — B:** Packet switching is connectionless — each packet has a header with destination info and routers decide the best path independently per packet.
+
+**Q24 — C:** The Internet uses packet switching — data is broken into packets that are routed independently through the network.
+
+**Q25 — C:** Store-and-forward means each router receives the entire packet, checks it, then forwards it — a core characteristic of packet switching.
+
+---
+
+## Answer Key
+
+| Q | Ans | Q | Ans | Q | Ans | Q | Ans | Q | Ans |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | C | 6 | C | 11 | B | 16 | B | 21 | B |
+| 2 | C | 7 | B | 12 | C | 17 | B | 22 | B |
+| 3 | B | 8 | C | 13 | B | 18 | C | 23 | B |
+| 4 | C | 9 | B | 14 | C | 19 | B | 24 | C |
+| 5 | C | 10 | B | 15 | B | 20 | B | 25 | C |
+
+---
+
 ## Target Audience
 
 B.Tech students preparing for placement exams — TCS, Infosys, Wipro, Accenture, GATE, and university exams.
 
 ---
+
+## License
+
+MIT
